@@ -13,6 +13,6 @@ yarn start
 ```
 
 # How to unmock
-```
+```bash
 export SWAGGER_MOCKED=false
 ```
